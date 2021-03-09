@@ -5,7 +5,7 @@
 **Name:** Erdal  
 **Surname:** İnce  
 **Email:** survivor.0506@gmail.com  
-**LinkeIn:** www.linkedin.com/in/erdal-ince-23b876152
+
   
 
 ## Project Name
