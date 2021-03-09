@@ -5,8 +5,8 @@
 **Name:** Erdal  
 **Surname:** İnce  
 **Email:** survivor.0506@gmail.com  
-
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+**LinkeIn:** www.linkedin.com/in/erdal-ince-23b876152
+  
 
 ## Project Name
 Description of your project.
