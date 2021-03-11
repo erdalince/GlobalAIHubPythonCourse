@@ -9,4 +9,4 @@ list4 =[i*2 for i in list3] #Multiply all values in the list3 by 2
 print(list4)
 
 for i in list4:
-    print(type(list4)) #I use for loop to print the data type of all values in the list4
+    print(f'{i} type is :' ,type(i)) #I use for loop to print the data type of all values in the list4
