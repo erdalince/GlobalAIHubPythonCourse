@@ -25,7 +25,8 @@ Eğer kullanıcı 5'den fazla doğru cevap yanıtlarsa başarılı olacak.
 
 ## Requirements
 ```
-Ödevler için herhangi bir kütüphaneyi import etmemize gerek yok.
+Ödevler için herhangi bir kütüphaneyi import etmemize gerek yok. 
+Sadece ödev2 için pandans kütüphanesini import ettim. Normalde import etmeden de ödev2 yapılıyor. Her iki şekilde de ödevi yaptım.
 
 ```
 ---
