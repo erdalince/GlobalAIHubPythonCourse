@@ -5,6 +5,7 @@
 **Name:** Erdal  
 **Surname:** İnce  
 **Email:** survivor.0506@gmail.com  
+**Note:** Sertifikayı aldıktan sonra güncelleyeceğim.Teşekkürler
 
   
 
