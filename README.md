@@ -12,7 +12,7 @@
 ## Project Name
 10 soruluk Bilgi yarışması hazrılanacak.
 
-Her sorunun tekbir cevabı olacak.
+Her sorunun tek cevabı olacak.
 
 Cevaplar büyük-küçük harf duyarlılığına göre ayarlanacak.
 
@@ -25,9 +25,8 @@ Eğer kullanıcı 5'den fazla doğru cevap yanıtlarsa başarılı olacak.
 
 ## Requirements
 ```
-Some python libraries
-Some python libraries
-Some python libraries
+Ödevler için herhangi bir kütüphaneyi import etmemize gerek yok.
+
 ```
 ---
 
