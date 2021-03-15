@@ -32,5 +32,6 @@ Sadece ödev2 için pandans kütüphanesini import ettim. Normalde import etmede
 ---
 
 ### Certification
-![](img/Introduction to Python.png)
+![Introduction to Python](https://user-images.githubusercontent.com/79761692/111207400-a1de5780-85da-11eb-9544-420a1b5954d8.png)
+
 
